@@ -1,0 +1,77 @@
+@charset "utf-8";
+.navbar-nav .dropdown {
+  line-height: 50px;
+}
+.caption :hover {
+  opacity: 0.5;
+}
+#myCarousel{
+	background-image: url(../img/bannter.jpg);
+	max-width: 1920px;
+	height: 700px;
+}
+.item{
+	width: 100%;
+	height: 700px;
+}
+.item img{
+	margin: 280px auto;
+}
+.row {
+	margin: 70px auto;
+}
+.row .dd {
+	margin: 0 20px 40px;
+}
+.row span{
+	color: red;
+	float: right;
+	padding: 5px;
+}
+.row span i{
+	background-color: red;
+	border-radius: 100%;
+	color: #fff;
+}
+
+.mian1{
+	width: 100%;
+	height:770px;
+	background-color: #eee;
+}
+.mian1_1{
+	width: 100%;
+	height: auto;
+}
+.mian1_1 img{
+	width: 33.333333%;
+	float: left;
+}
+
+.mian2 img{
+    margin-top: 200px;
+}
+.footer p{
+	font-size: 11px;
+}
+.footer li {
+	margin-top:10px;  
+}
+.footer img{
+    display: inline-block;
+    margin-right:5px; 
+}
+.wmwz{
+    background: url(../img/510.png)no-repeat 0 5px;
+}
+.wmwz2{
+    background: url(../img/718.png)no-repeat 0 5px;
+}
+.wmwz p{margin-left:40px;}
+.wmwz2 p{margin-left:40px;}
+strong{
+	font-size: 20px;
+	font-weight: bold;
+
+	margin: 14px 0 80px 0 ;
+}
